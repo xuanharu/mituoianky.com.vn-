@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 h1,
@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .text-primary {
@@ -808,7 +808,7 @@ h6,
 }
 
 .product-info .description {
-    color: #666;
+    color: #000;
     line-height: 1.7;
     margin-bottom: 1.5rem;
 }
@@ -823,7 +823,7 @@ h6,
     border-radius: 6px;
     margin-bottom: 1.5rem;
     font-size: 0.95rem;
-    color: #5d4037;
+    color: #000;
 }
 
 .allergen-note .egg-icon {
