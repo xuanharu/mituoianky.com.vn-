@@ -467,7 +467,7 @@ h6,
 /*** CTA ***/
 
 .cta-section {
-    background: linear-gradient( 135deg, #D32F2F 0%, #E64A19 100%);
+    background: linear-gradient( 135deg, #af2828 0%, #ca4219 100%);
     padding: 50px;
     color: white;
     overflow: hidden;
@@ -920,15 +920,12 @@ h6,
         flex: 0 0 100%;
         max-width: 100%;
     }
-
     .product-carousel .carousel-item img {
         max-height: 6cm;
     }
-
     .product-info {
         padding: 1.5rem;
     }
-
     .product-info .price {
         font-size: 1.25rem;
     }
