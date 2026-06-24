@@ -8,6 +8,18 @@
 
 body {
     font-family: 'Inter', sans-serif;
+    position: relative;
+    z-index: 0;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url('../img/background_0.png') center/cover no-repeat;
+    opacity: 0.8;
+    z-index: -1;
+    pointer-events: none;
 }
 
 h1,
